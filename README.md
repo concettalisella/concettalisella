@@ -1,6 +1,4 @@
-## Hi there 👋
-<h1 align="center">Welcome to my GitHub 💻</h1>
-
+## Welcome to my GitHub 💻 👋
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBmOHZ1YWdwZ2U4eWJ4Ymd1bW9pd2dvY3Bib2k4aHJuOGZrcDZmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sDaYbHuv8ypgZCcjG/giphy.gif" width="250" />
 </p>
