@@ -1,4 +1,9 @@
 ## Hi there 👋
+<h1 align="center">Welcome to my GitHub 💻</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" />
+</p>
 
 <!--
 **concettalisella/concettalisella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
