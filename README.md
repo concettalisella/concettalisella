@@ -42,7 +42,7 @@
   </a>
   
 - 📧 Reach out via email ...
-<a href="mailto:concetta.lisella@unimol.com">
+<a href="mailto:concetta.lisella@unimol.it">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
