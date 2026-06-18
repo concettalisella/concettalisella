@@ -9,7 +9,7 @@
 
 ## 🚀 Current Focus
 
-- 🌲 **Dendrochronology & Climate Resilience:** My primary research focuses on tree-ring analysis to evaluate the impacts of climatic stressors on forest ecosystems. Specifically, I work on calculating the **resilience indices**, i.e., resistance, recovery, and resilience.
+- 🌲 **Dendrochronology & Climate Resilience:** My primary research focuses on tree-ring analysis to evaluate the impacts of climatic stressors on forest ecosystems. Specifically, I work on calculating the **resilience components**, i.e., resistance, recovery, and resilience.
 - 🛠️ **Shiny Web Application Development:** I collaborated to maintain web applications using **R Shiny**. These tools are designed to simplify ecological data analysis, enabling users without a programming background to compute and visualize complex metrics (e.g., Climate-Smart Forestry indicators).
 - 📊 **Ecological Data Science:** Processing, manipulating, and visualizing forest inventory datasets.
 
