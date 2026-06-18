@@ -5,7 +5,7 @@
 </p>
 
 ## 👋 Hi there, I'm Concetta
-<p> I am a researcher focused on forest ecology, data science, and digital solutions. I leverage programming to analyze how forest ecosystems respond to global environmental changes, focusing on mitigation and adaptation aspects. </p>
+<p> 🌳 I'm a researcher focused on forest ecology, data science, and digital solutions. 🪵 Dendrochronology is my main topic, and I have a strong interest in tree provenance analysis. 🧬 I find forest genetics to be a fascinating field. 👩‍💻 I leverage programming to analyze how forest ecosystems respond to global environmental changes, focusing on mitigation and adaptation aspects. </p>
 
 ## 🚀 Current Focus
 
